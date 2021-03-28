@@ -1,4 +1,4 @@
 ## Java Swing Projects
 
-Note: every project folder include a README file that you can read
+Please note that every project folder include a README file that contains a running demo link 
 
